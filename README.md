@@ -18,11 +18,13 @@
 
 ## 📂 Featured Projects
 
-| Project        | Description                                       | Links |
-|----------------|---------------------------------------------------|--------|
-| **Portfolio Site** | My personal website to showcase my skills.         | [Repo](https://github.com/LennyLiu95/portfolio-site) |
-| **Perfect Bench**  | A clean website for a marble benchtop business.     | [Repo](https://github.com/LennyLiu95/perfect-bench) |
-| **React Todo**     | Simple todo list built with React.                | Coming soon... |
+| Project          | Description                                     | Links                                               |
+|------------------|-------------------------------------------------|-----------------------------------------------------|
+| **Portfolio Site** | My personal website to showcase my skills.      | [Repo](https://github.com/LennyLiu95/portfolio-site) |
+| **Price Checker**  | Upload & search Excel-based product lists       | [View](https://LennyLiu95.github.io/price-checker/) ｜ [Repo](https://github.com/LennyLiu95/price-checker) |
+| **Perfect Bench**  | A clean website for a marble benchtop business. | [Repo](https://github.com/LennyLiu95/perfect-bench) |
+| **React Todo**     | Simple todo list built with React.              | Coming soon...                                      |
+
 
 ---
 
